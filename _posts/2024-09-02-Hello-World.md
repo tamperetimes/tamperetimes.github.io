@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-subtitle: Welcome to out site!!
+subtitle: Welcome to our site!!
 cover-img: https://i1.wp.com/prompts.cfd/image/VdlRFPJCSKqg6XA4PgJaxQ.jpg
 thumbnail-img: https://i1.wp.com/prompts.cfd/image/VdlRFPJCSKqg6XA4PgJaxQ.jpg
 share-img: https://i1.wp.com/prompts.cfd/image/VdlRFPJCSKqg6XA4PgJaxQ.jpg
